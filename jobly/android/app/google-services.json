@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "610811451887",
+    "project_id": "ionic-d9a59",
+    "storage_bucket": "ionic-d9a59.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610811451887:android:9993e17f90260fead5fe1a",
+        "android_client_info": {
+          "package_name": "com.dev.jobly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIugnilE0PT_uMsPG1MUI4bonPLh2iCww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
